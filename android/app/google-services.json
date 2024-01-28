@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "689574214729",
+    "project_id": "swe444-suhail",
+    "storage_bucket": "swe444-suhail.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689574214729:android:ce35d0c94a5fb959c11398",
+        "android_client_info": {
+          "package_name": "com.example.suhail_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689574214729-fla4m222u4s8l14ak16qkb59ramvbn3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7x8W1a7RTWkucntEumc4XQ1DVmx6SHq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689574214729-fla4m222u4s8l14ak16qkb59ramvbn3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
